@@ -2,7 +2,7 @@ let count = 0;
 const mainElement = document.querySelector("div.main>img");
 const url = [
     "https://github.com/shimauma11/slidShow/blob/main/mercury.jpg?raw=true",
-    "venus.jpg",
+    "https://github.com/shimauma11/slidShow/blob/main/venus.jpg?raw=true",
     "earth.jpg",
     "mars.jpg",
     "jupiter.jpg",
