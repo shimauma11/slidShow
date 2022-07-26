@@ -3,12 +3,12 @@ const mainElement = document.querySelector("div.main>img");
 const url = [
     "https://github.com/shimauma11/slidShow/blob/main/mercury.jpg?raw=true",
     "https://github.com/shimauma11/slidShow/blob/main/venus.jpg?raw=true",
-    "earth.jpg",
-    "mars.jpg",
-    "jupiter.jpg",
-    "saturn.jpg",
-    "uranus.jpg",
-    "neptune.jpg"
+    "https://github.com/shimauma11/slidShow/blob/main/earth.jpg?raw=true",
+    "https://github.com/shimauma11/slidShow/blob/main/mars.jpg?raw=true",
+    "https://github.com/shimauma11/slidShow/blob/main/jupiter.jpg?raw=true",
+    "https://github.com/shimauma11/slidShow/blob/main/saturn.jpg?raw=true",
+    "https://github.com/shimauma11/slidShow/blob/main/uranus.jpg?raw=true",
+    "https://github.com/shimauma11/slidShow/blob/main/neptune.jpg?raw=true"
 ];
 
 function left() {
