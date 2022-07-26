@@ -1,7 +1,7 @@
 let count = 0;
 const mainElement = document.querySelector("div.main>img");
 const url = [
-    "marcury.jpg",
+    "https://github.com/shimauma11/slidShow/blob/main/mercury.jpg?raw=true",
     "venus.jpg",
     "earth.jpg",
     "mars.jpg",
