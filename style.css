@@ -1,0 +1,33 @@
+body {
+  text-align : center;
+}
+.main img {
+  width : 70%;
+  vertical-align: middle;
+}
+.navi {
+  text-align: center;
+}
+button {
+  margin: 10px auto;
+  font-size: 24px;
+}
+.title {
+  font-size: xx-large;
+}
+.thumbnails .selected {
+  opacity: 1.0;
+}
+
+.title h1{
+    font-size: 50px;
+    font-family: 'Kaisei Opti', serif;
+}
+
+.title p{
+    font-family: 'DotGothic16', sans-serif;
+}
+
+
+
+

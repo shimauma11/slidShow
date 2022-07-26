@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>スライドショー</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Kaisei+Opti&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/5f717de898.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <div class="title">
+  　      <h1><i class="fas fa-star"></i>太陽系の惑星のスライドショー<i class="fas fa-star"></i></h1>
+      <p>このスライドショーは、太陽系の惑星である、水星・金星・地球・火星・木星・土星・天王星・海王星の8つの惑星を紹介するスライドショーです。<p>
+    </div>
+    <div class="main">
+      <button type="button" onclick= "left()"><</button>
+      <img src="mercury.jpg">
+      <button type="button" onclick="right()">></button>
+    </div>
+    <div class="control">
+      <button onclick="play()">再生</button>
+      <button onclick="stop()">停止</button>
+      <button onclick="reset()">リセット</button>
+    </div>
+    <script src="slidShow.js"></script>
+  </body>
+</html>
